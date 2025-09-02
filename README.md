@@ -1,10 +1,21 @@
-# Readme
+# Space Invaders
 
-This is a clone of the classic arcade game, space invaders, in C++ using only a few dependencies. It is meant as a companion to [this series of tutorial posts](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html).
+A clone of the classic **Space Invaders** arcade game, written in C++ with minimal dependencies.  
+This project follows [this tutorial series](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html).
 
-## Install and Run on Mac
+---
 
-  brew install glfw
-  ./make.sh
-  chmod +x ./main
-  ./main
+## 🚀 Features
+- Classic gameplay with aliens, shields, and a player ship  
+- Built in **C++** for performance and simplicity  
+- Uses **GLFW** for windowing and input  
+
+---
+
+## 🛠️ Installation & Run (macOS)
+
+```bash
+brew install glfw
+./make.sh
+chmod +x ./main
+./main
